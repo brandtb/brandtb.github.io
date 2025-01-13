@@ -1,2 +1,2 @@
-# brandtb.github.io
-b3sz.com public web site
+# b3sz.com
+A minimal web site so that b3sz.com resolves.
